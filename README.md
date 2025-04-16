@@ -10,6 +10,7 @@ This repository contains all my work, notes, and code from the **Computer Vision
 - 🎨 Color spaces (BGR, RGB, HSV, Grayscale)
 - ✍️ Basic Image Manipulation
 - ✍️ Annotating Images
-
+- 🎨 Image Enhancement 
+- 🎨 Accessing the Camera 
 
 
