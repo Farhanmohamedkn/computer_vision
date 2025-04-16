@@ -1,4 +1,3 @@
-# computer_vision
 # 🧠 Computer Vision Bootcamp – My Progress
 
 This repository contains all my work, notes, and code from the **Computer Vision Bootcamp** I'm currently following. It covers hands-on projects and exercises using Python and OpenCV.
@@ -10,6 +9,7 @@ This repository contains all my work, notes, and code from the **Computer Vision
 - 📷 Loading and displaying images with OpenCV
 - 🎨 Color spaces (BGR, RGB, HSV, Grayscale)
 - ✍️ Basic Image Manipulation
+- ✍️ Annotating Images
 
 
 
