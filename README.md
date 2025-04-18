@@ -14,5 +14,6 @@ This repository contains all my work, notes, and code from the **Computer Vision
 - 🎨 Accessing the Camera 
 - 🎨 Video Writing 
 - 🎨 Image Filtering (Edge Detection) 
+- 🎨 Image features and Alignment 
 
 
