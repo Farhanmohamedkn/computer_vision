@@ -15,5 +15,6 @@ This repository contains all my work, notes, and code from the **Computer Vision
 - 🎨 Video Writing 
 - 🎨 Image Filtering (Edge Detection) 
 - 🎨 Image features and Alignment 
-
+- 🎨 Panorama using openCV
+- 🎨 High Dynamic Range (HDR) imaging
 
