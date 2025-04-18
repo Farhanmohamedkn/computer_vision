@@ -19,4 +19,5 @@ This repository contains all my work, notes, and code from the **Computer Vision
 - 🎨 High Dynamic Range (HDR) imaging
 - 🎨 Object tracking
 - 🎨 Face Detection
+- 🎨 TF Object Detection
 
