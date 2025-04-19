@@ -20,4 +20,4 @@ This repository contains all my work, notes, and code from the **Computer Vision
 - 🎨 Object tracking
 - 🎨 Face Detection
 - 🎨 TF Object Detection
-
+- 🎨 Pose Estimation using OpenPose
